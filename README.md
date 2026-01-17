@@ -1,4 +1,4 @@
-# Système de Gestion de Bibliothèque (Java/PostgreSQL)
+# Système de Gestion de Bibliothèque (Projet 2 - Bibliothèque)
 
 ## Description
 Application de gestion de bibliothèque permettant le suivi des livres, des membres et des emprunts avec calcul automatique des pénalités de retard. Ce projet valide la communication entre une application Java et une base de données relationnelle.
